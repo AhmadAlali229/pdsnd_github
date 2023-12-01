@@ -44,7 +44,7 @@ def get_filters():
     """
     city = input_check("choose the prefered city : chicago,  new york , washington ",'C')
     month = input_check("What month prefered ", 'M')
-    day = input_check("What day ", 'D')
+    day = input_check("What day prefered ", 'D')
     print('-'*40)
     return city, month, day
 
