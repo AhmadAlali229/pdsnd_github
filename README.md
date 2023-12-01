@@ -13,3 +13,9 @@ Data file which includes chicago.csv , new_york_city.csv and washington.csv
 
 ### Usage instructions ###
 when running you can either enter 'chicago','new york city','washington' and it is not case senstive
+
+### Dependencies
+- Python 3.x
+- pandas
+- numpy
+
