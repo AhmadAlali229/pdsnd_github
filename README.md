@@ -11,5 +11,5 @@ Data file which includes chicago.csv , new_york_city.csv and washington.csv
 
 **Please** note that you need to unzip Data.zip before running the script so it can have access to cities data
 
-
-
+### Usage instructions ###
+when running you can either enter 'chicago','new york city','washington' and it is not case senstive
