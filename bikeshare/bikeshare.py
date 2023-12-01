@@ -42,7 +42,7 @@ def get_filters():
           (str) month - name of the month to be filterd
           (str) day - name of the day of week be filterd
     """
-    city = input_check("choose : chicago,  new york , washington ",'C')
+    city = input_check("choose the prefered city : chicago,  new york , washington ",'C')
     month = input_check("What month ", 'M')
     day = input_check("What day ", 'D')
     print('-'*40)
