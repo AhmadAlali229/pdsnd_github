@@ -19,3 +19,13 @@ when running you can either enter 'chicago','new york city','washington' and it 
 - pandas
 - numpy
 
+### Results
+The Python script will provide the following information based on the user's input:
+- Total trip duration
+- Average trip duration
+- Most common start station
+- Most common end station
+- Most common trip from start to end
+- Count of each user type (Subscriber, Customer, etc.)
+- Count of each gender (if available)
+- The earliest, most recent, and most common birth years (if available)
